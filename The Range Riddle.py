@@ -1,4 +1,5 @@
 #Task 1: Your Mood Today
+
 import random
 
 emotions_list = ["Happy" , "Sad" , "Energetic" , "Calm"]
